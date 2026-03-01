@@ -148,7 +148,7 @@ function App() {
       {/* Logo */}
       <div className="p-4 flex items-center gap-3">
         <div className="w-10 h-10 rounded-xl flex items-center justify-center">
-          <img src="public/logo.png" alt="" className='h-[150%] w-full object-cover rounded-lg'/>
+          <img src="public/logo.png" alt="LOGO" className='h-[150%] w-full object-cover rounded-lg'/>
         </div>
         <div className="flex flex-col">
           <span className="font-bold text-lg leading-tight">Intelli-Build</span>
